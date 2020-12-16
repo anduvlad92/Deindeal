@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_titles_padding">6dp</dimen>
+    <dimen name="card_title_size">18sp</dimen>
+    <dimen name="card_elevation_size">4dp</dimen>
+    <dimen name="card_margin_size">4dp</dimen>
+    <dimen name="card_subtitle_size">14sp</dimen>
+    <dimen name="card_price_size">14sp</dimen>
+
+    <dimen name="filter_title_size">10sp</dimen>
+    <dimen name="filter_title_padding">4dp</dimen>
+
+
+</resources>

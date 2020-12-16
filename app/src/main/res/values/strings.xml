@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Deindeal</string>
+    <string name="txt_sort_price_ascending">Sort Price A</string>
+    <string name="txt_sort_price_descending">Sort Price D</string>
 </resources>
